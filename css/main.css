@@ -1166,6 +1166,7 @@ ul.hb-list li h6 {
 
 .block-post .heading5{
     text-align: center;
+    text-underline-position: below ;
 }
 .block-post p{
 	margin-bottom:25px;
